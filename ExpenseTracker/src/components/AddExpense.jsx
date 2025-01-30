@@ -26,7 +26,7 @@ const AddExpense = (props) => {
     return (
         <>
             <div className="form">
-            <h3>Add New Expense</h3>
+            <h3>Add New Expenseeeeeeeeee</h3>
                 <form onSubmit={onSubmit}>
                     <div className="label">
                     <label htmlFor="expense">Expense</label><br />
